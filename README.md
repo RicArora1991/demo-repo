@@ -1,3 +1,3 @@
 # Demo
 
-Some description for students for this first demo
+Some description for students for this first demo!
